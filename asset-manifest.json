@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/websitedemo/static/css/main.86c89ed0.css",
-    "main.js": "/websitedemo/static/js/main.172906ea.js",
-    "static/media/b22.jpg": "/websitedemo/static/media/b22.01b0b051354a3abbf982.jpg",
-    "static/media/header2.png": "/websitedemo/static/media/header2.cea5c3b163b0bd3b7f69.png",
-    "static/media/header.png": "/websitedemo/static/media/header.2a1e9f388c228b5aec4c.png",
-    "static/media/PlusJakartaSans-SemiBold.ttf": "/websitedemo/static/media/PlusJakartaSans-SemiBold.d2391ea64f023d358139.ttf",
-    "static/media/PlusJakartaSans-Medium.ttf": "/websitedemo/static/media/PlusJakartaSans-Medium.82a1829ce85a6c480f49.ttf",
-    "static/media/PlusJakartaSans-ExtraBold.ttf": "/websitedemo/static/media/PlusJakartaSans-ExtraBold.2e740ccb8eaab54be12a.ttf",
-    "static/media/PlusJakartaSans-Bold.ttf": "/websitedemo/static/media/PlusJakartaSans-Bold.669b6c5749b91789cee5.ttf",
-    "static/media/PlusJakartaSans-Regular.ttf": "/websitedemo/static/media/PlusJakartaSans-Regular.e3f98d4b9fa2064e3c0b.ttf",
-    "static/media/Group 4572.png": "/websitedemo/static/media/Group 4572.708e5ce95f424e69b58f.png",
-    "static/media/c6.png": "/websitedemo/static/media/c6.ee6ceba042faf59be102.png",
-    "static/media/c3.png": "/websitedemo/static/media/c3.39fe8b6a5a932ff10af4.png",
-    "index.html": "/websitedemo/index.html",
-    "main.86c89ed0.css.map": "/websitedemo/static/css/main.86c89ed0.css.map",
-    "main.172906ea.js.map": "/websitedemo/static/js/main.172906ea.js.map"
+    "main.css": "/static/css/main.707fc8e8.css",
+    "main.js": "/static/js/main.7d47fedb.js",
+    "static/media/b22.jpg": "/static/media/b22.01b0b051354a3abbf982.jpg",
+    "static/media/header2.png": "/static/media/header2.cea5c3b163b0bd3b7f69.png",
+    "static/media/header.png": "/static/media/header.2a1e9f388c228b5aec4c.png",
+    "static/media/PlusJakartaSans-SemiBold.ttf": "/static/media/PlusJakartaSans-SemiBold.d2391ea64f023d358139.ttf",
+    "static/media/PlusJakartaSans-Medium.ttf": "/static/media/PlusJakartaSans-Medium.82a1829ce85a6c480f49.ttf",
+    "static/media/PlusJakartaSans-ExtraBold.ttf": "/static/media/PlusJakartaSans-ExtraBold.2e740ccb8eaab54be12a.ttf",
+    "static/media/PlusJakartaSans-Bold.ttf": "/static/media/PlusJakartaSans-Bold.669b6c5749b91789cee5.ttf",
+    "static/media/PlusJakartaSans-Regular.ttf": "/static/media/PlusJakartaSans-Regular.e3f98d4b9fa2064e3c0b.ttf",
+    "static/media/Group 4572.png": "/static/media/Group 4572.708e5ce95f424e69b58f.png",
+    "static/media/c6.png": "/static/media/c6.ee6ceba042faf59be102.png",
+    "static/media/c3.png": "/static/media/c3.39fe8b6a5a932ff10af4.png",
+    "index.html": "/index.html",
+    "main.707fc8e8.css.map": "/static/css/main.707fc8e8.css.map",
+    "main.7d47fedb.js.map": "/static/js/main.7d47fedb.js.map"
   },
   "entrypoints": [
-    "static/css/main.86c89ed0.css",
-    "static/js/main.172906ea.js"
+    "static/css/main.707fc8e8.css",
+    "static/js/main.7d47fedb.js"
   ]
 }
