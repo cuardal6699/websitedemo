@@ -7,6 +7,7 @@ import Home from "./pages/Home";
 import Focus from "./pages/Focus";
 import Cases from "./pages/Cases";
 import Clients from "./pages/Clients";
+import Casesdetails from "./pages/CasesDetail";
 import Footer from "./components/footer/Footer";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
@@ -18,6 +19,7 @@ root.render(
 				<Route excat path="/focus" element={<Focus/>} />
 				<Route excat path="/cases" element={<Cases/>} />
 				<Route excat path="/clients" element={<Clients/>} />
+				<Route excat path="/deails" element={<Casesdetails/>} />
 			</Routes>
 				
 

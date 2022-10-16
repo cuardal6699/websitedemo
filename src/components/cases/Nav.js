@@ -6,11 +6,11 @@ function Nav() {
 
       <div className='container mx-auto'>
 
-      <div className='grid mt-24 gap-10 sm:grid-cols-3 lg:grid-cols-6 grid-cols-1 sm:px-0 px-5'>
+      <div className='grid mt-24 gap-10 sm:grid-cols-3 lg:grid-cols-6 grid-cols-1 sm:px-0 px-5 '>
 					<div className='text-center cursor-pointer transition-all ease-in-out duration-100 hover:text-[#0B3AFF] pb-6 hover:border-b-2 border-[#0B3AFF]'>
 						<div>
 							<p className='font-mono mb-1 '>03</p>
-							<h4 className='font-plusessb text-xl'>
+							<h4 className='font-plusessb text-xl '>
 								Digitalization
 							</h4>
 						</div>
